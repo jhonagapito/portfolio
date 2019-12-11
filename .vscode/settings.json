@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/826f1b15-d8ae-4adf-bad6-65d58f49db0b/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/jhonagapito",
+    "appService.deploySubpath": "dist"
+}
