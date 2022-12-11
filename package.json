@@ -29,7 +29,7 @@
     "@nguniversal/express-engine": "^8.1.1",
     "@nguniversal/module-map-ngfactory-loader": "8.1.1",
     "bootstrap": "^4.4.1",
-    "express": "^4.15.2",
+    "express": "^4.17.3",
     "jquery": "^3.4.1",
     "jquery.easing": "^1.4.1",
     "rxjs": "~6.4.0",
